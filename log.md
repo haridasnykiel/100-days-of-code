@@ -15,3 +15,11 @@
 **Thoughts:** Finding it more challenging and interesting.
 
 **Link to work:** No work to link yet
+
+### Day 3: 8th January, 2017
+
+**Today's Progress**: Continuing with the CSS challenges on freecodecamp.did the challenges for padding, margin and border.
+
+**Thoughts:** Found it a bit more challenging to understand these concepts.
+
+**Link to work:** No work to link yet
