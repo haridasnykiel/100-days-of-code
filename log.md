@@ -23,3 +23,11 @@
 **Thoughts:** Found it a bit more challenging to understand these concepts.
 
 **Link to work:** No work to link yet
+
+### Day 4: 10th January, 2017
+
+**Today's Progress**: Completed the CSS challenges on freecodecamp. Now on to bootstrap challenges.
+
+**Thoughts:** I am excited to learn about bootstrap CSS framework.
+
+**Link to work:** No work to link yet
