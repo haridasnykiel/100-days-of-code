@@ -31,3 +31,11 @@
 **Thoughts:** I am excited to learn about bootstrap CSS framework.
 
 **Link to work:** No work to link yet
+
+### Day 5: 12th January, 2017
+
+**Today's Progress**: Learnt bootstrap classes and now learning the grid system.
+
+**Thoughts:** Bootstrap makes it much easier to get your website looking nicer. I heard that bootstrap has a lot of code that may not be required and it can be modified the code that is not necessary.
+
+**Link to work:** No work to link yet
