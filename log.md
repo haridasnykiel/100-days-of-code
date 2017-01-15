@@ -39,3 +39,19 @@
 **Thoughts:** Bootstrap makes it much easier to get your website looking nicer. I heard that bootstrap has a lot of code that may not be required and it can be modified the code that is not necessary.
 
 **Link to work:** No work to link yet
+
+### Day 6: 14th January, 2017
+
+**Today's Progress**: Completed the bootstrap challenges now on to the jQuery.
+
+**Thoughts:** I am looking forward to learning jQuery and JS.
+
+**Link to work:** No work to link yet
+
+### Day 5: 15th January, 2017
+
+**Today's Progress**: I am learning the different ways to element and manipulate HTML elements with jQuery.
+
+**Thoughts:** This is getting more interesting and exciting as I go. Looking forward to starting a small project.
+
+**Link to work:** No work to link yet
