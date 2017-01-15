@@ -48,7 +48,7 @@
 
 **Link to work:** No work to link yet
 
-### Day 5: 15th January, 2017
+### Day 7: 15th January, 2017
 
 **Today's Progress**: I am learning the different ways to element and manipulate HTML elements with jQuery.
 
