@@ -55,3 +55,11 @@
 **Thoughts:** This is getting more interesting and exciting as I go. Looking forward to starting a small project.
 
 **Link to work:** No work to link yet
+
+### Day 8: 17th January, 2017
+
+**Today's Progress**: I am still going through the jQuery challenges on FCC. I learning the different functions that allow you to modify HTML elements, such as .prop() .html() .text() .parent()
+
+**Thoughts:** I am excited to start the challenge that requires to start my own project. Also I feel that FCC should teach vanilla JS before jQuery.
+
+**Link to work:** No work to link yet
