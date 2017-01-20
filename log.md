@@ -63,3 +63,11 @@
 **Thoughts:** I am excited to start the challenge that requires to start my own project. Also I feel that FCC should teach vanilla JS before jQuery.
 
 **Link to work:** No work to link yet
+
+### Day 9: 20th January, 2017
+
+**Today's Progress**: Learnt different methods to get elements. Such as using child-nth(2) and :even .
+
+**Thoughts:** I liking the simplicity of jQuery.
+
+**Link to work:** No work to link yet
