@@ -71,3 +71,11 @@
 **Thoughts:** I liking the simplicity of jQuery.
 
 **Link to work:** No work to link yet
+
+### Day 10: 24th January, 2017
+
+**Today's Progress:** Completed the Javascript section on FCC and started the tribute page project.
+
+**Thoughts:** Excited about using what I learnt and implement them into the tribute project.
+
+**Link to work:** http://codepen.io/hnykiel/pen/LxjZNa
