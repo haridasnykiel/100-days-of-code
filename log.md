@@ -79,3 +79,27 @@
 **Thoughts:** Excited about using what I learnt and implement them into the tribute project.
 
 **Link to work:** http://codepen.io/hnykiel/pen/LxjZNa
+
+### Day 11: 28th January, 2017
+
+**Today's Progress:** Working on the tribute project.
+
+**Thoughts:** Using bootstrap and CSS to add style the page.
+
+**Link to work:** http://codepen.io/hnykiel/pen/LxjZNa
+
+### Day 12: 29th January, 2017
+
+**Today's Progress:** Working on the tribute project. Trying to find a colour scheme and image for the page
+
+**Thoughts:** Added colour and image. Going to do some finishing touches, such borders and add the link.
+
+**Link to work:** http://codepen.io/hnykiel/pen/LxjZNa
+
+### Day 13: 31st January, 2017
+
+**Today's Progress:** Completed the tribute project. Added some finishing touches.
+
+**Thoughts:** Looking forward to what I will learn next.
+
+**Link to work:** https://codepen.io/hnykiel/pen/LxjZNa
