@@ -103,3 +103,11 @@
 **Thoughts:** Looking forward to what I will learn next.
 
 **Link to work:** https://codepen.io/hnykiel/pen/LxjZNa
+
+### Day 14: 2nd February, 2017
+
+**Today's Progress:** Made a start on my portfolio project for the FCC challenge. Started by working out how to add personal images to codepen.
+
+**Thoughts:** Figured out my issue, using Photobucket to get a URL for my images. Now just styling and placing my image. 
+
+**Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
