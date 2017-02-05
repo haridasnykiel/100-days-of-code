@@ -108,6 +108,14 @@
 
 **Today's Progress:** Made a start on my portfolio project for the FCC challenge. Started by working out how to add personal images to codepen.
 
-**Thoughts:** Figured out my issue, using Photobucket to get a URL for my images. Now just styling and placing my image. 
+**Thoughts:** Figured out my issue, using Photobucket to get a URL for my images. Now just styling and placing my image.
+
+**Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
+
+### Day 15: 5th February, 2017
+
+**Today's Progress:** Working on my portfolio project for FCC. Started using jQuery. Also using a lot of CSS to style.
+
+**Thoughts:** This project is starting to get very interested. Can not wait to show the final result.
 
 **Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
