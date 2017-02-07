@@ -119,3 +119,11 @@
 **Thoughts:** This project is starting to get very interested. Can not wait to show the final result.
 
 **Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
+
+### Day 16: 7th February, 2017
+
+**Today's Progress:** Working on my portfolio project for FCC. Using jQuery to make my website more dynamic. Adding event listeners to trigger different css styles to elements, depending on the action taken.
+
+**Thoughts:** This project is starting to get very interested. Can not wait to show the final result.
+
+**Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
