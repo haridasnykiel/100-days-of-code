@@ -127,3 +127,11 @@
 **Thoughts:** This project is starting to get very interested. Can not wait to show the final result.
 
 **Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
+
+### Day 17: 9th February, 2017
+
+**Today's Progress:** Arranging and styling the description page with my photo and information. 
+
+**Thoughts:** Hoping to finish this project this weekend.
+
+**Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
