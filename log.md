@@ -130,8 +130,16 @@
 
 ### Day 17: 9th February, 2017
 
-**Today's Progress:** Arranging and styling the description page with my photo and information. 
+**Today's Progress:** Arranging and styling the description page with my photo and information.
 
 **Thoughts:** Hoping to finish this project this weekend.
+
+**Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
+
+### Day 18: 14th February, 2017
+
+**Today's Progress:** Added the portfolio page with placeholders to my portfolio website.
+
+**Thoughts:** I want to finish this project by the end of next week, that is my goal.
 
 **Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
