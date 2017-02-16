@@ -143,3 +143,11 @@
 **Thoughts:** I want to finish this project by the end of next week, that is my goal.
 
 **Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
+
+### Day 19: 16th February, 2017
+
+**Today's Progress:** Added animation to my portfolio webpage, using the jQuery .animate() method.
+
+**Thoughts:** This has been quite fun to use. I am having an issue with the animation of borders, but with enough googling I am sure I will figure it out.
+
+**Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
