@@ -156,6 +156,14 @@
 
 **Today's Progress:** Completed the animation for my portfolio section. Inserted a form using bootstrap for styling.
 
-**Thoughts:** Look into text area for the message part of the form. I want to add some more animation for the links to the social media sites and the form. 
+**Thoughts:** Look into text area for the message part of the form. I want to add some more animation for the links to the social media sites and the form.
+
+**Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
+
+### Day 21: 26th February, 2017
+
+**Today's Progress:** I have almost completed the portfolio challenge for FCC. Just got a few finishing touches to implement.
+
+**Thoughts:** I feel I have done some nice animation using jquery .animate() method. 
 
 **Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
