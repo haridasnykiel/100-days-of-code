@@ -164,6 +164,14 @@
 
 **Today's Progress:** I have almost completed the portfolio challenge for FCC. Just got a few finishing touches to implement.
 
-**Thoughts:** I feel I have done some nice animation using jquery .animate() method. 
+**Thoughts:** I feel I have done some nice animation using jquery .animate() method.
+
+**Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
+
+### Day 22: 28th February, 2017
+
+**Today's Progress:** Completed the portfolio FCC challenge
+
+**Thoughts:** Now on to the JavaScript challenges on FCC
 
 **Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
