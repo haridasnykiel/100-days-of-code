@@ -175,3 +175,11 @@
 **Thoughts:** Now on to the JavaScript challenges on FCC
 
 **Link to work:** http://codepen.io/hnykiel/pen/vgjNWe
+
+### Day 23: 2nd March, 2017
+
+**Today's Progress:** Started the JavaScript FCC challenges
+
+**Thoughts:** Learning the basics of JS
+
+**Link to work:** N/A
