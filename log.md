@@ -183,3 +183,11 @@
 **Thoughts:** Learning the basics of JS
 
 **Link to work:** N/A
+
+### Day 24: 7th March, 2017
+
+**Today's Progress:** Completed learning about JS strings and how to define and manipulate string variables
+
+**Thoughts:** Excited to get to the project challenges for JS. Its all quite simple at the moment.
+
+**Link to work:** N/A
