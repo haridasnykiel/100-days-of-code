@@ -191,3 +191,11 @@
 **Thoughts:** Excited to get to the project challenges for JS. Its all quite simple at the moment.
 
 **Link to work:** N/A
+
+## Day 25: 9th March, 2017
+
+**Today's Progress:** Learning about functions on FCC
+
+**Thoughts:** Going through the functions section on FCC, finding it very interesting.
+
+**Link to work:** N/A
