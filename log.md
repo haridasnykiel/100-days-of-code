@@ -199,3 +199,11 @@
 **Thoughts:** Going through the functions section on FCC, finding it very interesting.
 
 **Link to work:** N/A
+
+## Day 26: 12th March, 2017
+
+**Today's Progress:** Learning about conditional statements on FCC
+
+**Thoughts:** Excited to do another big challenge (project) for FCC.
+
+**Link to work:** N/A
