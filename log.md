@@ -207,3 +207,11 @@
 **Thoughts:** Excited to do another big challenge (project) for FCC.
 
 **Link to work:** N/A
+
+## Day 27: 14th March, 2017
+
+**Today's Progress:** Completed the black jack challenge, now on the Json challenges on FCC.
+
+**Thoughts:** It is getting more challenging and much more interesting.
+
+**Link to work:** N/A
