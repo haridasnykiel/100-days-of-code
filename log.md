@@ -215,3 +215,11 @@
 **Thoughts:** It is getting more challenging and much more interesting.
 
 **Link to work:** N/A
+
+## Day 28: 16th March, 2017
+
+**Today's Progress:** Going through the JSON challenges on FCC.
+
+**Thoughts:** It is getting more challenging and much more interesting.
+
+**Link to work:** N/A
