@@ -223,3 +223,11 @@
 **Thoughts:** It is getting more challenging and much more interesting.
 
 **Link to work:** N/A
+
+## Day 29: 21st March, 2017
+
+**Today's Progress:** Going through the JSON challenges on FCC. Completed all the for loop challenge, now on the while loop.
+
+**Thoughts:** The JS object challenges were very interesting. I have definitely learnt alot this evening :).
+
+**Link to work:** N/A
