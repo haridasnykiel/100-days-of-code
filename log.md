@@ -231,3 +231,11 @@
 **Thoughts:** The JS object challenges were very interesting. I have definitely learnt alot this evening :).
 
 **Link to work:** N/A
+
+## Day 30/31: 26th March, 2017
+
+**Today's Progress:** Just going through the constructor challenges on FCC.
+
+**Thoughts:** Finding this very interesting and enjoying the harder challenges. 
+
+**Link to work:** N/A
