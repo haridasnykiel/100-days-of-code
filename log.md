@@ -236,6 +236,14 @@
 
 **Today's Progress:** Just going through the constructor challenges on FCC.
 
-**Thoughts:** Finding this very interesting and enjoying the harder challenges. 
+**Thoughts:** Finding this very interesting and enjoying the harder challenges.
+
+**Link to work:** N/A
+
+## Day 32: 28th March, 2017
+
+**Today's Progress:** Just going through the array method challenges on FCC.
+
+**Thoughts:** Looking forward to the project.
 
 **Link to work:** N/A
