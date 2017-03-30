@@ -247,3 +247,11 @@
 **Thoughts:** Looking forward to the project.
 
 **Link to work:** N/A
+
+## Day 33: 30th March, 2017
+
+**Today's Progress:** I am now on the palindrome challenge on FCC
+
+**Thoughts:** This one is definitely going to take some thinking. :) 
+
+**Link to work:** N/A
