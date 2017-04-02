@@ -252,6 +252,14 @@
 
 **Today's Progress:** I am now on the palindrome challenge on FCC
 
-**Thoughts:** This one is definitely going to take some thinking. :) 
+**Thoughts:** This one is definitely going to take some thinking. :)
+
+**Link to work:** N/A
+
+## Day 34: 2nd April, 2017
+
+**Today's Progress:** Working through the algorithm challenges on FCC. Now on Confirm the ending challenge.
+
+**Thoughts:** These challenges are really helping to consolidate the knowledge I have learnt. Thanks Freecodecamp :) 
 
 **Link to work:** N/A
