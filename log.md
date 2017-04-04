@@ -260,6 +260,14 @@
 
 **Today's Progress:** Working through the algorithm challenges on FCC. Now on Confirm the ending challenge.
 
-**Thoughts:** These challenges are really helping to consolidate the knowledge I have learnt. Thanks Freecodecamp :) 
+**Thoughts:** These challenges are really helping to consolidate the knowledge I have learnt. Thanks Freecodecamp :)
+
+**Link to work:** N/A
+
+## Day 35: 4th April, 2017
+
+**Today's Progress:** On the Truncate a string challenge.
+
+**Thoughts:** These challenges are really helping to consolidate the knowledge I have learnt.
 
 **Link to work:** N/A
