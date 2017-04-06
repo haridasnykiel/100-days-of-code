@@ -271,3 +271,11 @@
 **Thoughts:** These challenges are really helping to consolidate the knowledge I have learnt.
 
 **Link to work:** N/A
+
+## Day 35: 6th April, 2017
+
+**Today's Progress:** On the Mutation challenge.
+
+**Thoughts:** These challenges are really helping to consolidate the knowledge I have learnt.
+
+**Link to work:** N/A
