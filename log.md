@@ -272,10 +272,18 @@
 
 **Link to work:** N/A
 
-## Day 35: 6th April, 2017
+## Day 36: 6th April, 2017
 
 **Today's Progress:** On the Mutation challenge.
 
 **Thoughts:** These challenges are really helping to consolidate the knowledge I have learnt.
+
+**Link to work:** N/A
+
+## Day 37: 11th April, 2017
+
+**Today's Progress:** Completed the Mutation challenge.
+
+**Thoughts:** Found this one quite challenging but feeling good about the solution I came up with.
 
 **Link to work:** N/A
