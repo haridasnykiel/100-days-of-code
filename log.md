@@ -287,3 +287,11 @@
 **Thoughts:** Found this one quite challenging but feeling good about the solution I came up with.
 
 **Link to work:** N/A
+
+## Day 38: 14th April, 2017
+
+**Today's Progress:** On the Seek and Destroy challenge on FCC.
+
+**Thoughts:** Finding this challenge very confusing. I need to do more research on how to use filter method in JS.
+
+**Link to work:** N/A
