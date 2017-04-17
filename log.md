@@ -295,3 +295,11 @@
 **Thoughts:** Finding this challenge very confusing. I need to do more research on how to use filter method in JS.
 
 **Link to work:** N/A
+
+## Day 39: 17th April, 2017
+
+**Today's Progress:** On the Ceasar Cipher challenge
+
+**Thoughts:** I am currently half way through this challenge.
+
+**Link to work:** N/A
