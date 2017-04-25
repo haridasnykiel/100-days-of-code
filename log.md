@@ -304,7 +304,7 @@
 
 **Link to work:** N/A
 
-## Day 39: 25th April, 2017
+## Day 40: 25th April, 2017
 
 **Today's Progress:** Started the Random Quote Machine challenge.
 
