@@ -303,3 +303,11 @@
 **Thoughts:** I am currently half way through this challenge.
 
 **Link to work:** N/A
+
+## Day 39: 25th April, 2017
+
+**Today's Progress:** Started the Random Quote Machine challenge.
+
+**Thoughts:** I have been a bit behind in this 100 day challenge. I have started to learn how to use APIs. This will be a very interesting challenge.
+
+**Link to work:** N/A
