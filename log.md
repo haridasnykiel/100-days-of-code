@@ -311,3 +311,19 @@
 **Thoughts:** I have been a bit behind in this 100 day challenge. I have started to learn how to use APIs. This will be a very interesting challenge.
 
 **Link to work:** N/A
+
+## Day 41: 27th April, 2017
+
+**Today's Progress:** Finding how to use a quote API
+
+**Thoughts:** This took several tries. I got there in the end.
+
+**Link to work:** N/A
+
+## Day 42: 27th April, 2017
+
+**Today's Progress:** I have got the quote machine to return random quotes when a button is pressed.
+
+**Thoughts:** I just want to make it look and be a little more dynamic by using animation.
+
+**Link to work:** N/A
