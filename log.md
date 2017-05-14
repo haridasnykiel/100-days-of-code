@@ -327,3 +327,11 @@
 **Thoughts:** I just want to make it look and be a little more dynamic by using animation.
 
 **Link to work:** N/A
+
+## Day 43: 14th May, 2017
+
+**Today's Progress:** Completed the user stories for the Random Quote Machine FCC challenge.
+
+**Thoughts:** I found quite difficult to do the twitter share function. I got there eventually. I just want to add some animation to make it look nice.
+
+**Link to work:** https://codepen.io/hnykiel/pen/xdRLzp
