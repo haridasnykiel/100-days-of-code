@@ -335,3 +335,11 @@
 **Thoughts:** I found quite difficult to do the twitter share function. I got there eventually. I just want to add some animation to make it look nice.
 
 **Link to work:** https://codepen.io/hnykiel/pen/xdRLzp
+
+## Day 44: 15th May, 2017
+
+**Today's Progress:** Completed the random quote machine challenge.
+
+**Thoughts:** I found this challenge to take me a long time. Hope the next challenge will be much quicker.
+
+**Link to work:** https://codepen.io/hnykiel/pen/xdRLzp
