@@ -343,3 +343,11 @@
 **Thoughts:** I found this challenge to take me a long time. Hope the next challenge will be much quicker.
 
 **Link to work:** https://codepen.io/hnykiel/pen/xdRLzp
+
+## Day 45: 18th May, 2017
+
+**Today's Progress:** Made a start on the Show Local Weather FCC challenge.
+
+**Thoughts:** I have started this on my local text editor instead on codepen, I feel this is more real world practice. I will upload to github.
+
+**Link to work:** N/A
