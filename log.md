@@ -351,3 +351,19 @@
 **Thoughts:** I have started this on my local text editor instead on codepen, I feel this is more real world practice. I will upload to github.
 
 **Link to work:** N/A
+
+## Day 46: 21th May, 2017
+
+**Today's Progress:** Managed to get the location from google maps API
+
+**Thoughts:** This was a fun challenge took me a while to understand how the API works.
+
+**Link to work:** N/A
+
+## Day 47: 25th May, 2017
+
+**Today's Progress:** Managed to get the temperature in the current location.
+
+**Thoughts:** I used the openweatherapi to get this information. I need to convert this Fahrenheit. I have been using my local machine for this project and not codepen.
+
+**Link to work:** N/A
