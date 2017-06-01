@@ -368,7 +368,7 @@
 
 **Link to work:** N/A
 
-## Day 47: 1st June, 2017
+## Day 48: 1st June, 2017
 
 **Today's Progress:** Mostly completed the FCC Weather app challenge. I just need to make it look pretty and the background images.
 
