@@ -364,6 +364,14 @@
 
 **Today's Progress:** Managed to get the temperature in the current location.
 
-**Thoughts:** I used the openweatherapi to get this information. I need to convert this Fahrenheit. I have been using my local machine for this project and not codepen.
+**Thoughts:** I used the openweatherapi to get this information. I need to convert this Fahrenheit. I have been using my local machine for this project and not codepen. I need to push this project to github.
+
+**Link to work:** N/A
+
+## Day 47: 1st June, 2017
+
+**Today's Progress:** Mostly completed the FCC Weather app challenge. I just need to make it look pretty and the background images.
+
+**Thoughts:** This should look quite nice once completed. Hope it is OK putting it on github instead of codepen.
 
 **Link to work:** N/A
