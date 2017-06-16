@@ -375,3 +375,19 @@
 **Thoughts:** This should look quite nice once completed. Hope it is OK putting it on github instead of codepen.
 
 **Link to work:** N/A
+
+## Day 49: 15th June, 2017
+
+**Today's Progress:** Made the background images appear depending on temperature in the users current location.
+
+**Thoughts:** Looking forward to the challenge of making a live demo of my code using github. First I want to add a bit of animation to the weather app to make it a bit more user friendly.
+
+**Link to work:** N/A
+
+## Day 50: 16th June, 2017
+
+**Today's Progress:** Made some design improvements. I want to get the image to fade in slowly. This is what I will work on my next session.
+
+**Thoughts:** Almost there just need to add some design improvements to make look nice.
+
+**Link to work:** N/A
