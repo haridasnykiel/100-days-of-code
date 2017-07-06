@@ -391,3 +391,19 @@
 **Thoughts:** Almost there just need to add some design improvements to make look nice.
 
 **Link to work:** N/A
+
+## Day 51: 22nd June, 2017
+
+**Today's Progress:** Finished the weather app and uploaded to github just having issues with the weather api I am using which is not using HTTPS
+
+**Thoughts:** May need to change the weather API I have used to get the temperature.
+
+**Link to work:** N/A
+
+## Day 52: 6th July, 2017
+
+**Today's Progress:** Learnt a lot about CORS and using the dark sky API. Found a proxy that will get the correct response header to use the API. Now I just need to get the correct data from the response to display in the web page.
+
+**Thoughts:** Took a long time to find out how to use Dark Sky API on my local, but finally got there. Happy with the progress I made today.
+
+**Link to work:** N/A
