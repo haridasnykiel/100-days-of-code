@@ -407,3 +407,11 @@
 **Thoughts:** Took a long time to find out how to use Dark Sky API on my local, but finally got there. Happy with the progress I made today.
 
 **Link to work:** N/A
+
+## Day 53: 8th July, 2017
+
+**Today's Progress:** Completed the weather app challenge on FCC. I have also started the Build a Wikipedia Viewer challenge on FCC.
+
+**Thoughts:** Happy with everything I have learnt creating the weather app, such as using APIs and CORS. Excited for the next challenge.
+
+**Link to work:** https://haridasnykiel.github.io/showTheLocalWeather/
