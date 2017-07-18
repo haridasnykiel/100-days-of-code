@@ -415,3 +415,19 @@
 **Thoughts:** Happy with everything I have learnt creating the weather app, such as using APIs and CORS. Excited for the next challenge.
 
 **Link to work:** https://haridasnykiel.github.io/showTheLocalWeather/
+
+## Day 54: 11th July, 2017
+
+**Today's Progress:** Made a start on the Wikipedia viewer app.
+
+**Thoughts:** Learning how to use the wikimedia API so I can start to get wiki articles.
+
+**Link to work:** n/a
+
+## Day 55: 18th July, 2017
+
+**Today's Progress:** Managed to start getting a response from the mediawiki API.
+
+**Thoughts:** Next I will need to get the response display on the web page.
+
+**Link to work:** n/a
