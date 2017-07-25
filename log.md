@@ -431,3 +431,11 @@
 **Thoughts:** Next I will need to get the response display on the web page.
 
 **Link to work:** n/a
+
+## Day 56: 25th July, 2017
+
+**Today's Progress:** My app now displays the article title and snippet in the html page.
+
+**Thoughts:** I need to find a way to get the link to each article from the response.
+
+**Link to work:** n/a
