@@ -439,3 +439,11 @@
 **Thoughts:** I need to find a way to get the link to each article from the response.
 
 **Link to work:** n/a
+
+## Day 57: 29th July, 2017
+
+**Today's Progress:** Completed the functionality for the page. Now I am just adding some design to the page for a better user experience.
+
+**Thoughts:** This challenge was not too difficult once I understood how to use the mediawiki API. I need to put the wikipedia viewer app on to github. 
+
+**Link to work:** n/a
