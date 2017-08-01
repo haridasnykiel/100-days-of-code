@@ -444,6 +444,14 @@
 
 **Today's Progress:** Completed the functionality for the page. Now I am just adding some design to the page for a better user experience.
 
-**Thoughts:** This challenge was not too difficult once I understood how to use the mediawiki API. I need to put the wikipedia viewer app on to github. 
+**Thoughts:** This challenge was not too difficult once I understood how to use the mediawiki API. I need to put the wikipedia viewer app on to github. atom
+
+**Link to work:** n/a
+
+## Day 58: 1st August, 2017
+
+**Today's Progress:** Added some design to the wikipedia viewer.
+
+**Thoughts:** I still need to add some animations and design the response from the API.
 
 **Link to work:** n/a
