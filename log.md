@@ -455,3 +455,19 @@
 **Thoughts:** I still need to add some animations and design the response from the API.
 
 **Link to work:** n/a
+
+## Day 59: 6th August, 2017
+
+**Today's Progress:** Added some styles to the page now need to fix a bug where when another search is conducted the lis do not go to the top of the menu and the ones that were first searched just disappear. So at the top there is nothing but when you scroll down you will find the elements.
+
+**Thoughts:** I am finding this challenge quite simple and straight forward.
+
+**Link to work:** n/a
+
+## Day 60: 8th August, 2017
+
+**Today's Progress:** Fixed the issue where the li elements from the old search where not getting fully removed. I will add animation in the next session to have a better user experience.
+
+**Thoughts:** I will also make the page responsive so it can be viewed on various devices.
+
+**Link to work:** n/a
