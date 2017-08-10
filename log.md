@@ -471,3 +471,11 @@
 **Thoughts:** I will also make the page responsive so it can be viewed on various devices.
 
 **Link to work:** n/a
+
+## Day 61: 10th August, 2017
+
+**Today's Progress:** Added some animation and made it so when an article is clicked a new tab will be opened.
+
+**Thoughts:** I want to make it responsive before moving on.
+
+**Link to work:** n/a
