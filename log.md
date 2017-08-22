@@ -488,10 +488,18 @@
 
 **Link to work:** https://haridasnykiel.github.io/WikipediaViewer/
 
-## Day 62: 17th August, 2017
+## Day 63: 18th August, 2017
 
 **Today's Progress:** Made a start on the twitch API challenge.
 
 **Thoughts:** Got the response of the FCC channel plus some others that are interesting to me.
+
+**Link to work:** n/a
+
+## Day 64: 22nd August, 2017
+
+**Today's Progress:** Completed most of the functionality for the twitch FCC challenge, I just need to add the filters. I have also completed the designs.
+
+**Thoughts:** Looking forward to tackling the filters for this project.
 
 **Link to work:** n/a
