@@ -503,3 +503,11 @@
 **Thoughts:** Looking forward to tackling the filters for this project.
 
 **Link to work:** n/a
+
+## Day 65: 24th August, 2017
+
+**Today's Progress:** Made a start on the filter functionality.
+
+**Thoughts:** I have still got some work to do for the filter functionality. 
+
+**Link to work:** n/a
