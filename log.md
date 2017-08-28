@@ -508,6 +508,14 @@
 
 **Today's Progress:** Made a start on the filter functionality.
 
-**Thoughts:** I have still got some work to do for the filter functionality. 
+**Thoughts:** I have still got some work to do for the filter functionality.
+
+**Link to work:** n/a
+
+## Day 65: 28th August, 2017
+
+**Today's Progress:** Been stuck on an issue with the filters for todays session. I still have not resolved the issue.
+
+**Thoughts:** I am hoping to resolve this issue next session. once it is resolved I will the FCC challenge will be complete.
 
 **Link to work:** n/a
