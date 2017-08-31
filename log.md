@@ -519,3 +519,11 @@
 **Thoughts:** I am hoping to resolve this issue next session. once it is resolved I will the FCC challenge will be complete.
 
 **Link to work:** n/a
+
+## Day 66: 31st August, 2017
+
+**Today's Progress:** Completed the Twitch FCC challenge.
+
+**Thoughts:** Now to complete the algorithm challenges.
+
+**Link to work:** https://haridasnykiel.github.io/twitchAPI/
