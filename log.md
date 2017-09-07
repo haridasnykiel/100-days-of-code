@@ -532,6 +532,6 @@
 
 **Today's Progress:** Working on the Spinal Tap Case challenge
 
-**Thoughts:** Finding this challenge quite fiddly I am almost there.
+**Thoughts:** Finding this challenge quite fiddly, I have almost completed it.
 
 **Link to work:** n/a
