@@ -527,3 +527,11 @@
 **Thoughts:** Now to complete the algorithm challenges.
 
 **Link to work:** https://haridasnykiel.github.io/twitchAPI/
+
+## Day 67: 7th September, 2017
+
+**Today's Progress:** Working on the Spinal Tap Case challenge
+
+**Thoughts:** Finding this challenge quite fiddly I am almost there.
+
+**Link to work:** n/a
