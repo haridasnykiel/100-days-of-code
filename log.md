@@ -535,3 +535,11 @@
 **Thoughts:** Finding this challenge quite fiddly, I have almost completed it.
 
 **Link to work:** n/a
+
+## Day 68: 10th September, 2017
+
+**Today's Progress:** Still working on the Spinal Tap Case challenge. 
+
+**Thoughts:** Finding this one quite challenging. I will need to learn more about regex.
+
+**Link to work:** n/a
