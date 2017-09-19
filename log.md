@@ -538,8 +538,16 @@
 
 ## Day 68: 10th September, 2017
 
-**Today's Progress:** Still working on the Spinal Tap Case challenge. 
+**Today's Progress:** Still working on the Spinal Tap Case challenge.
 
 **Thoughts:** Finding this one quite challenging. I will need to learn more about regex.
+
+**Link to work:** n/a
+
+## Day 69: 19th September, 2017
+
+**Today's Progress:** Working on the sum prime numbers challenge
+
+**Thoughts:** I having to remember how to work out primes, its fun when I start to understand it.
 
 **Link to work:** n/a
