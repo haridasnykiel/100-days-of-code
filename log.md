@@ -551,3 +551,11 @@
 **Thoughts:** I having to remember how to work out primes, its fun when I start to understand it.
 
 **Link to work:** n/a
+
+## Day 70: 24th September, 2017
+
+**Today's Progress:** Completed the sum all primes challenge and now on the smallest common multiple challenge.
+
+**Thoughts:** Not really into these mathematics challenges but I guess it is necessary.
+
+**Link to work:** n/a
