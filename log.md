@@ -559,3 +559,11 @@
 **Thoughts:** Not really into these mathematics challenges but I guess it is necessary.
 
 **Link to work:** n/a
+
+## Day 71: 8th October, 2017
+
+**Today's Progress:** Working on the smallest common multiple challenge in FCC.
+
+**Thoughts:** I will use the modulus operator in my find common multiple function.
+
+**Link to work:** n/a
