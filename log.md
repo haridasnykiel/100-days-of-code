@@ -567,3 +567,11 @@
 **Thoughts:** I will use the modulus operator in my find common multiple function.
 
 **Link to work:** n/a
+
+## Day 72: 10th October, 2017
+
+**Today's Progress:** Still working on the smallest common multiple challenge on FCC. Really find it difficult to work out the logic for this challenge.
+
+**Thoughts:** I will get it. I just want to do it without looking at someone else's answer.
+
+**Link to work:** n/a
