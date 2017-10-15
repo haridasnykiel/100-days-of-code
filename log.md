@@ -575,3 +575,11 @@
 **Thoughts:** I will get it. I just want to do it without looking at someone else's answer.
 
 **Link to work:** n/a
+
+## Day 73: 15th October, 2017
+
+**Today's Progress:** Completed the smallest common multiple challenge which required me to look at other peoples answers to figure it out. I made sure that I fully understood the answer I used before completing the challenge.
+
+**Thoughts:** I am really happy I found an answer that I fully understood. 
+
+**Link to work:** n/a
