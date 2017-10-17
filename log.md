@@ -580,6 +580,14 @@
 
 **Today's Progress:** Completed the smallest common multiple challenge which required me to look at other peoples answers to figure it out. I made sure that I fully understood the answer I used before completing the challenge.
 
-**Thoughts:** I am really happy I found an answer that I fully understood. 
+**Thoughts:** I am really happy I found an answer that I fully understood.
+
+**Link to work:** n/a
+
+## Day 74: 17th October, 2017
+
+**Today's Progress:** Completed the finders keepers and drop it challenges on FCC.
+
+**Thoughts:** These challenges were quite easy. The nested array challenge seems a bit more complex. Looking forward to the challenge.
 
 **Link to work:** n/a
