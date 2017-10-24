@@ -591,3 +591,11 @@
 **Thoughts:** These challenges were quite easy. The nested array challenge seems a bit more complex. Looking forward to the challenge.
 
 **Link to work:** n/a
+
+## Day 75: 24th October, 2017
+
+**Today's Progress:** Completed the binary converter challenge.
+
+**Thoughts:** These challenges were quite easy. I just needed to know how to convert binary to unicode. 
+
+**Link to work:** n/a
