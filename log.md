@@ -596,6 +596,14 @@
 
 **Today's Progress:** Completed the binary converter challenge.
 
-**Thoughts:** These challenges were quite easy. I just needed to know how to convert binary to unicode. 
+**Thoughts:** These challenges were quite easy. I just needed to know how to convert binary to unicode.
+
+**Link to work:** n/a
+
+## Day 76: 26th October, 2017
+
+**Today's Progress:** Working on the arguments optional challenge on FCC.
+
+**Thoughts:** This is a fun challenge it is requiring me to learn about closures. This has been something I have struggled to understand. 
 
 **Link to work:** n/a
