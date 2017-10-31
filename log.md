@@ -604,6 +604,14 @@
 
 **Today's Progress:** Working on the arguments optional challenge on FCC.
 
-**Thoughts:** This is a fun challenge it is requiring me to learn about closures. This has been something I have struggled to understand. 
+**Thoughts:** This is a fun challenge it is requiring me to learn about closures. This has been something I have struggled to understand.
+
+**Link to work:** n/a
+
+## Day 77: 31st October, 2017
+
+**Today's Progress:** Completed the addTogether challenge on FCC
+
+**Thoughts:** Now I have the Advanced algorithm challenges to complete.
 
 **Link to work:** n/a
