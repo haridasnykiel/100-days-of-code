@@ -615,3 +615,11 @@
 **Thoughts:** Now I have the Advanced algorithm challenges to complete.
 
 **Link to work:** n/a
+
+## Day 78: 2nd November, 2017
+
+**Today's Progress:** Working on the Validate US Telephone number
+
+**Thoughts:** This requires that I brush up on my reg ex skills which is quite fun:)
+
+**Link to work:** n/a
