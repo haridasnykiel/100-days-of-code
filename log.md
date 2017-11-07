@@ -623,3 +623,11 @@
 **Thoughts:** This requires that I brush up on my reg ex skills which is quite fun:)
 
 **Link to work:** n/a
+
+## Day 79: 7th November, 2017
+
+**Today's Progress:** Working on the Validate US Telephone number
+
+**Thoughts:** This is require me to learn alot of new things about regex which I would never learnt if was not for this challenge. 
+
+**Link to work:** n/a
