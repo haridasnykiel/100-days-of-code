@@ -628,6 +628,14 @@
 
 **Today's Progress:** Working on the Validate US Telephone number
 
-**Thoughts:** This is require me to learn alot of new things about regex which I would never learnt if was not for this challenge. 
+**Thoughts:** This is require me to learn alot of new things about regex which I would never learnt if was not for this challenge.
+
+**Link to work:** n/a
+
+## Day 80: 8th November, 2017
+
+**Today's Progress:** Completed the Validate US Telephone number challenge
+
+**Thoughts:** This challenge was difficult because the site I was using to test my regex was incorrect. 
 
 **Link to work:** n/a
