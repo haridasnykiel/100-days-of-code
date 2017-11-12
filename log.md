@@ -636,6 +636,14 @@
 
 **Today's Progress:** Completed the Validate US Telephone number challenge
 
-**Thoughts:** This challenge was difficult because the site I was using to test my regex was incorrect. 
+**Thoughts:** This challenge was difficult because the site I was using to test my regex was incorrect.
+
+**Link to work:** n/a
+
+## Day 81: 8th November, 2017
+
+**Today's Progress:** Completed the Record collection challenge on FCC.
+
+**Thoughts:** This challenge was a good refresher on my knowledge of modifying and adding to JS objects.
 
 **Link to work:** n/a
