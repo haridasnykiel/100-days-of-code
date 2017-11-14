@@ -640,10 +640,18 @@
 
 **Link to work:** n/a
 
-## Day 81: 8th November, 2017
+## Day 81: 12th November, 2017
 
 **Today's Progress:** Completed the Record collection challenge on FCC.
 
 **Thoughts:** This challenge was a good refresher on my knowledge of modifying and adding to JS objects.
+
+**Link to work:** n/a
+
+## Day 82: 14th November, 2017
+
+**Today's Progress:** Working on the Symmetric Difference challenge.
+
+**Thoughts:** This one needs each section of functionality to be modularised into different functions. This is a fun challenge.  
 
 **Link to work:** n/a
