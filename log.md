@@ -655,3 +655,11 @@
 **Thoughts:** This one needs each section of functionality to be modularised into different functions. This is a fun challenge.  
 
 **Link to work:** n/a
+
+## Day 83: 21st November, 2017
+
+**Today's Progress:** Working on the Exact Change challenge.
+
+**Thoughts:** This is going to require to do some maths which I always find a bit tricky to do in code. I will do this :)
+
+**Link to work:** n/a
