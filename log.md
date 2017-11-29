@@ -663,3 +663,19 @@
 **Thoughts:** This is going to require to do some maths which I always find a bit tricky to do in code. I will do this :)
 
 **Link to work:** n/a
+
+## Day 84: 27th November, 2017
+
+**Today's Progress:** Working on the Exact Change challenge.
+
+**Thoughts:** Created the functionality to return the closed or insufficient funds scenario.
+
+**Link to work:** n/a
+
+## Day 85: 29th November, 2017
+
+**Today's Progress:** Still working on the exact change challenge. Almost completed the logic to return the correct change.
+
+**Thoughts:** Created the functionality to return the closed or insufficient funds scenario.
+
+**Link to work:** n/a
