@@ -679,3 +679,11 @@
 **Thoughts:** Created the functionality to return the closed or insufficient funds scenario.
 
 **Link to work:** n/a
+
+## Day 86: 5th December, 2017
+
+**Today's Progress:** The exact change and inventory update challenge are now complete. I am now on the No Repeat please FCC challenge.
+
+**Thoughts:** This is going to be a bit more challenging then the others so far. Looking forward to tackling it.
+
+**Link to work:** n/a
