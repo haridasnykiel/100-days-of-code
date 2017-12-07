@@ -687,3 +687,11 @@
 **Thoughts:** This is going to be a bit more challenging then the others so far. Looking forward to tackling it.
 
 **Link to work:** n/a
+
+## Day 87: 7th December, 2017
+
+**Today's Progress:** Still working on the No repeats please challenge.
+
+**Thoughts:** Finding it hard to visualise how this would work in code. I feel I am getting a better picture now. 
+
+**Link to work:** n/a
