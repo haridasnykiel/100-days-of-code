@@ -692,6 +692,22 @@
 
 **Today's Progress:** Still working on the No repeats please challenge.
 
-**Thoughts:** Finding it hard to visualise how this would work in code. I feel I am getting a better picture now. 
+**Thoughts:** Finding it hard to visualise how this would work in code. I feel I am getting a better picture now.
+
+**Link to work:** n/a
+
+## Day 87: 11th December, 2017
+
+**Today's Progress:** Still working on the No repeats please challenge.
+
+**Thoughts:** I am starting to understand how to get all the possible permutations.
+
+**Link to work:** n/a
+
+## Day 88: 13th December, 2017
+
+**Today's Progress:** Still working on the No repeats please challenge. Getting a better picture of how the Heapy algorithm works
+
+**Thoughts:** I am going to watch some lectures on this problem to get a better idea. 
 
 **Link to work:** n/a
