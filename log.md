@@ -708,6 +708,14 @@
 
 **Today's Progress:** Still working on the No repeats please challenge. Getting a better picture of how the Heapy algorithm works
 
-**Thoughts:** I am going to watch some lectures on this problem to get a better idea. 
+**Thoughts:** I am going to watch some lectures on this problem to get a better idea.
+
+**Link to work:** n/a
+
+## Day 89: 19th December, 2017
+
+**Today's Progress:** Completed the noRepeatPlease challenge.
+
+**Thoughts:** I have a much better idea of how this works now. 
 
 **Link to work:** n/a
