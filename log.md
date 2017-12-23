@@ -716,6 +716,14 @@
 
 **Today's Progress:** Completed the noRepeatPlease challenge.
 
-**Thoughts:** I have a much better idea of how this works now. 
+**Thoughts:** I have a much better idea of how this works now.
+
+**Link to work:** n/a
+
+## Day 90: 23rd December, 2017
+
+**Today's Progress:** Completed the MakeAPerson challenge.
+
+**Thoughts:** I found this challenge quite simple and fun. On to the next.
 
 **Link to work:** n/a
