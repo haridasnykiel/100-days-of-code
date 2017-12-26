@@ -727,3 +727,11 @@
 **Thoughts:** I found this challenge quite simple and fun. On to the next.
 
 **Link to work:** n/a
+
+## Day 91: 26th December, 2017
+
+**Today's Progress:** Working on the Map the Debris challenge on FCC.
+
+**Thoughts:** Finding it difficult to find a way to calculate the nth root of a number using the Math built in library. 
+
+**Link to work:** n/a
