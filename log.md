@@ -732,6 +732,14 @@
 
 **Today's Progress:** Working on the Map the Debris challenge on FCC.
 
-**Thoughts:** Finding it difficult to find a way to calculate the nth root of a number using the Math built in library. 
+**Thoughts:** Finding it difficult to find a way to calculate the nth root of a number using the Math built in library.
+
+**Link to work:** n/a
+
+## Day 92: 4th January, 2018
+
+**Today's Progress:** Completed the map the debris challenge.
+
+**Thoughts:** Found it quite difficult to work out how to translate the formula into JS code. I had to look at someone elses answer, I now understand how it works. On to the last advanced algorithm challenge.
 
 **Link to work:** n/a
