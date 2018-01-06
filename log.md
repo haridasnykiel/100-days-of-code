@@ -743,3 +743,11 @@
 **Thoughts:** Found it quite difficult to work out how to translate the formula into JS code. I had to look at someone elses answer, I now understand how it works. On to the last advanced algorithm challenge.
 
 **Link to work:** n/a
+
+## Day 93: 6th January, 2018
+
+**Today's Progress:** Made a start on the pairwise project of the advanced algorithm FCC challenges.
+
+**Thoughts:** Created a function which returns the indices of the numbers when added they will equal the argument value. 
+
+**Link to work:** n/a
