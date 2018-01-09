@@ -748,6 +748,14 @@
 
 **Today's Progress:** Made a start on the pairwise project of the advanced algorithm FCC challenges.
 
-**Thoughts:** Created a function which returns the indices of the numbers when added they will equal the argument value. 
+**Thoughts:** Created a function which returns the indices of the numbers when added they will equal the argument value.
+
+**Link to work:** n/a
+
+## Day 94: 9th January, 2018
+
+**Today's Progress:** Working on the pairwise challenge. Passed the 2 first tests, finding it hard to work how to do the test with duplicate array items. 
+
+**Thoughts:** I think I will restart the challenge and do a different approach.
 
 **Link to work:** n/a
