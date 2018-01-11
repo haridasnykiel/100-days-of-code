@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# Code Diary
 
 ### Day 1: 3rd January, 2017
 
@@ -754,8 +754,16 @@
 
 ## Day 94: 9th January, 2018
 
-**Today's Progress:** Working on the pairwise challenge. Passed the 2 first tests, finding it hard to work how to do the test with duplicate array items. 
+**Today's Progress:** Working on the pairwise challenge. Passed the 2 first tests, finding it hard to work how to do the test with duplicate array items.
 
 **Thoughts:** I think I will restart the challenge and do a different approach.
+
+**Link to work:** n/a
+
+## Day 95: 11th January, 2018
+
+**Today's Progress:** Still working on the pairwise FCC challenge. Finding it hard to find a way to only use the first elements that equal the arg when the other elements are duplicates. So if 1,1,1 is passed then only the first to ones indices will be used and the third should ignored.
+
+**Thoughts:** I feel that I getting a bit closer to solving the issue. 
 
 **Link to work:** n/a
