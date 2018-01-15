@@ -764,6 +764,14 @@
 
 **Today's Progress:** Still working on the pairwise FCC challenge. Finding it hard to find a way to only use the first elements that equal the arg when the other elements are duplicates. So if 1,1,1 is passed then only the first to ones indices will be used and the third should ignored.
 
-**Thoughts:** I feel that I getting a bit closer to solving the issue. 
+**Thoughts:** I feel that I getting a bit closer to solving the issue.
+
+**Link to work:** n/a
+
+## Day 96: 15th January, 2018
+
+**Today's Progress:** Almost completed the pairwise challenge. Managed to pass the first 3 tests on FCC. Having issues with duplicate items in the array.
+
+**Thoughts:** I feel like I have made good progress on this challenge.
 
 **Link to work:** n/a
