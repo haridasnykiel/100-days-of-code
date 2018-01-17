@@ -775,3 +775,11 @@
 **Thoughts:** I feel like I have made good progress on this challenge.
 
 **Link to work:** n/a
+
+## Day 97: 17th January, 2018
+
+**Today's Progress:** I have completed the pairwise challenge. I had to copy the answer from fcc but I fully understand how it works.
+
+**Thoughts:** I did not fully understand the question and I was trying to over complicate the answer. I will make a note of this and just try to really think about what is the simplest answer. Now on to the final project challenges. 
+
+**Link to work:** n/a
