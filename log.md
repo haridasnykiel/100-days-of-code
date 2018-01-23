@@ -780,6 +780,22 @@
 
 **Today's Progress:** I have completed the pairwise challenge. I had to copy the answer from fcc but I fully understand how it works.
 
-**Thoughts:** I did not fully understand the question and I was trying to over complicate the answer. I will make a note of this and just try to really think about what is the simplest answer. Now on to the final project challenges. 
+**Thoughts:** I did not fully understand the question and I was trying to over complicate the answer. I will make a note of this and just try to really think about what is the simplest answer. Now on to the final project challenges.
+
+**Link to work:** n/a
+
+## Day 98: 21st January, 2018
+
+**Today's Progress:** Made a start on the calculator FCC project.
+
+**Thoughts:** I am going to use flexbox for these final projects.
+
+**Link to work:** n/a
+
+## Day 99: 23rd January, 2018
+
+**Today's Progress:** Working on the layout of the calculator.
+
+**Thoughts:** Flexbox is not easy to use at first but I am going to keep trying and I will get there. 
 
 **Link to work:** n/a
