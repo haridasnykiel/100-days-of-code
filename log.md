@@ -796,6 +796,22 @@
 
 **Today's Progress:** Working on the layout of the calculator.
 
-**Thoughts:** Flexbox is not easy to use at first but I am going to keep trying and I will get there. 
+**Thoughts:** Flexbox is not easy to use at first but I am going to keep trying and I will get there.
+
+**Link to work:** n/a
+
+## Day 100: 25th January, 2018
+
+**Today's Progress:** Completed the design of the calculator and started to work on the functionality.
+
+**Thoughts:** This project should not take long.
+
+**Link to work:** n/a
+
+## Day 100: 28th January, 2018
+
+**Today's Progress:** Added some functionality to the calculator which now allows you click buttons and the number or symbol on the button will be displayed. There has also been some layout corrections.
+
+**Thoughts:** Reminded how to use event listeners and has made my code much concise and modular. 
 
 **Link to work:** n/a
