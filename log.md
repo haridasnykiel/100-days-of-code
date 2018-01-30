@@ -812,6 +812,14 @@
 
 **Today's Progress:** Added some functionality to the calculator which now allows you click buttons and the number or symbol on the button will be displayed. There has also been some layout corrections.
 
-**Thoughts:** Reminded how to use event listeners and has made my code much concise and modular. 
+**Thoughts:** Reminded how to use event listeners and has made my code much concise and modular.
+
+**Link to work:** n/a
+
+## Day 101: 30th January, 2018
+
+**Today's Progress:** Added some of the calculation functionality. Trying to work the best way of doing this, that is more user friendly.
+
+**Thoughts:** I will first get it working then to some refactoring.
 
 **Link to work:** n/a
