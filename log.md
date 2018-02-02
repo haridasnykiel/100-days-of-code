@@ -823,3 +823,11 @@
 **Thoughts:** I will first get it working then to some refactoring.
 
 **Link to work:** n/a
+
+## Day 102: 2nd February, 2018
+
+**Today's Progress:** I can do simple calculations with only 2 numbers. I cannot yet chain numbers together and return the correct number.
+
+**Thoughts:** This seems to be due to the calculation array not having the new number and doing the calculation with the previous numbers. I need to update the array when one calculation is completed when there is chained operation.
+
+**Link to work:** n/a
