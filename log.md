@@ -839,3 +839,27 @@
 **Thoughts:** I am going to try to use hashmaps to resolve this issue.
 
 **Link to work:** n/a
+
+## Day 104  : 8th February, 2018
+
+**Today's Progress:** There are some bugs around doing calculations when using eval.
+
+**Thoughts:** There are some issues with chaining operations and using eval. I will try to implement a different method to get chaining to work as expected.
+
+**Link to work:** n/a
+
+## Day 105  : 13th February, 2018
+
+**Today's Progress:** Completed the FCC calculator project.
+
+**Thoughts:** Now on to the pomodoro clock project.
+
+**Link to work:** n/a
+
+## Day 106  : 15th February, 2018
+
+**Today's Progress:** Started the pomodoro clock FCC project.
+
+**Thoughts:** Working on the layout using flexbox.
+
+**Link to work:** n/a
