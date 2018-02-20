@@ -863,3 +863,11 @@
 **Thoughts:** Working on the layout using flexbox.
 
 **Link to work:** n/a
+
+## Day 107  : 20th February, 2018
+
+**Today's Progress:** Working on the logic for the clock. Just setup the functions to set the timers. Now I need to get the clock working when the go button is clicked.
+
+**Thoughts:** I need to find an event listener which will wait for the timer to reach 0.00 before stopping the clock. 
+
+**Link to work:** n/a
