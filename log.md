@@ -868,6 +868,14 @@
 
 **Today's Progress:** Working on the logic for the clock. Just setup the functions to set the timers. Now I need to get the clock working when the go button is clicked.
 
-**Thoughts:** I need to find an event listener which will wait for the timer to reach 0.00 before stopping the clock. 
+**Thoughts:** I need to find an event listener which will wait for the timer to reach 0.00 before stopping the clock.
+
+**Link to work:** n/a
+
+## Day 107  : 22nd February, 2018
+
+**Today's Progress:** Working on the pomodoro clock FCC project. Trying to add the functionality which will let the user stop the clock.
+
+**Thoughts:** This proves to be more difficult then initial thought.
 
 **Link to work:** n/a
