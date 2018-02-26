@@ -879,3 +879,11 @@
 **Thoughts:** This proves to be more difficult then initial thought.
 
 **Link to work:** n/a
+
+## Day 108  : 26th February, 2018
+
+**Today's Progress:** The user can now stop the timer when the stop button is selected. For the next session I need to ensure the break is counted down when the work time reaches 0.
+
+**Thoughts:** This has been quite an enjoyable challenge so far. I have learned about how to use the setInterval and clearInterval JS methods. I also want to include some animation to the timer, like a progress bar. 
+
+**Link to work:** n/a
