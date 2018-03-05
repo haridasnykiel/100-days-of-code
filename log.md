@@ -884,6 +884,14 @@
 
 **Today's Progress:** The user can now stop the timer when the stop button is selected. For the next session I need to ensure the break is counted down when the work time reaches 0.
 
-**Thoughts:** This has been quite an enjoyable challenge so far. I have learned about how to use the setInterval and clearInterval JS methods. I also want to include some animation to the timer, like a progress bar. 
+**Thoughts:** This has been quite an enjoyable challenge so far. I have learned about how to use the setInterval and clearInterval JS methods. I also want to include some animation to the timer, like a progress bar.
+
+**Link to work:** n/a
+
+## Day 109  : 5th March, 2018
+
+**Today's Progress:** Working on the pomodoro clock project. I have a few bugs where the timer does not go to the default start when the stop button is pressed.
+
+**Thoughts:** I need to find a method so that when stop is pressed the timer will go back to the GO time. 
 
 **Link to work:** n/a
