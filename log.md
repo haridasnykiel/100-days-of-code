@@ -892,6 +892,14 @@
 
 **Today's Progress:** Working on the pomodoro clock project. I have a few bugs where the timer does not go to the default start when the stop button is pressed.
 
-**Thoughts:** I need to find a method so that when stop is pressed the timer will go back to the GO time. 
+**Thoughts:** I need to find a method so that when stop is pressed the timer will go back to the GO time.
+
+**Link to work:** n/a
+
+## Day 110  : 6th March, 2018
+
+**Today's Progress:** Completed the logic for the clock. Started to add animation for a progress bar.
+
+**Thoughts:** Started to add the animation for the clock and improving the layout of the clock.
 
 **Link to work:** n/a
