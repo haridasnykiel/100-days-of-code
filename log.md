@@ -903,3 +903,11 @@
 **Thoughts:** Started to add the animation for the clock and improving the layout of the clock.
 
 **Link to work:** n/a
+
+## Day 111  : 8th March, 2018
+
+**Today's Progress:** Added some animation to the progress for the clock. There is a bug which causes the bar to reduce to half the size on the first second.
+
+**Thoughts:** Need to fix the above bug. Also will work on making the site responsive and make some changes to the layout. 
+
+**Link to work:** n/a
