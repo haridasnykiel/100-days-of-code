@@ -908,6 +908,14 @@
 
 **Today's Progress:** Added some animation to the progress for the clock. There is a bug which causes the bar to reduce to half the size on the first second.
 
-**Thoughts:** Need to fix the above bug. Also will work on making the site responsive and make some changes to the layout. 
+**Thoughts:** Need to fix the above bug. Also will work on making the site responsive and make some changes to the layout.
+
+**Link to work:** n/a
+
+## Day 112  : 11th March, 2018
+
+**Today's Progress:** Got the progress bar working for the pomodoro clock fcc project.
+
+**Thoughts:** For the next session I will work on making the layout a bit cleaner and more user friendly. I will also use media queries for responsive design.
 
 **Link to work:** n/a
