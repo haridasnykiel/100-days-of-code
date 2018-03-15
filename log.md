@@ -919,3 +919,11 @@
 **Thoughts:** For the next session I will work on making the layout a bit cleaner and more user friendly. I will also use media queries for responsive design.
 
 **Link to work:** n/a
+
+## Day 112  : 11th March, 2018
+
+**Today's Progress:** Completed the animation and design of the clock. I need to add the sound when the clock is complete and make it responsive.
+
+**Thoughts:** I will really make an effort to make this one responsive and add media queries.
+
+**Link to work:** n/a
