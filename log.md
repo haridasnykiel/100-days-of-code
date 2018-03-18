@@ -927,3 +927,11 @@
 **Thoughts:** I will really make an effort to make this one responsive and add media queries.
 
 **Link to work:** n/a
+
+## Day 113  : 18th March, 2018
+
+**Today's Progress:** Added audio to the FFC pomodoro clock project to trigger when the timer is complete.
+
+**Thoughts:** I still need to make the web page responsive, which will be the next task.  
+
+**Link to work:** n/a
