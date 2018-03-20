@@ -935,3 +935,11 @@
 **Thoughts:** I still need to make the web page responsive, which will be the next task.  
 
 **Link to work:** n/a
+
+## Day 114  : 20th March, 2018
+
+**Today's Progress:** Played around with media queries to make the webpage more responsive. I needed to restructure the HTML which broke the layout of the page. I need to fix the layout issues in my next session.
+
+**Thoughts:** I have had some fun messing around with responsive design. Once the webpage is responsive enough using chrome. I will test it with different browsers and phone/tablet browsers. 
+
+**Link to work:** n/a
