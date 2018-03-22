@@ -940,6 +940,14 @@
 
 **Today's Progress:** Played around with media queries to make the webpage more responsive. I needed to restructure the HTML which broke the layout of the page. I need to fix the layout issues in my next session.
 
-**Thoughts:** I have had some fun messing around with responsive design. Once the webpage is responsive enough using chrome. I will test it with different browsers and phone/tablet browsers. 
+**Thoughts:** I have had some fun messing around with responsive design. Once the webpage is responsive enough using chrome. I will test it with different browsers and phone/tablet browsers.
+
+**Link to work:** n/a
+
+## Day 115  : 22nd March, 2018
+
+**Today's Progress:** Working on trying to make the web page responsive. I have had to restructure the HTML and CSS to conduct these changes. This is for the FCC Pomodoro clock challenge.
+
+**Thoughts:** Trying to layout the page in CSS is proving to be more difficult then I thought. I am learning a lot about flexbox and media queries.   
 
 **Link to work:** n/a
