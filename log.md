@@ -951,3 +951,19 @@
 **Thoughts:** Trying to layout the page in CSS is proving to be more difficult then I thought. I am learning a lot about flexbox and media queries.   
 
 **Link to work:** n/a
+
+## Day 116  : 26th March, 2018
+
+**Today's Progress:** Completed the FCC pomodoro clock project. Starting the tic tac toe FCC project. Adding all the relevant files and packages. Started adding the HTML.
+
+**Thoughts:** Looking forward to trying to make the tic tac toe game.
+
+**Link to work:** n/a
+
+## Day 117  : 28th March, 2018
+
+**Today's Progress:** Added the first 2 pages of the game setup so the player can select one or two players.
+
+**Thoughts:** Will need to do some investigation on how to do the bot logic for the bot player.
+
+**Link to work:** n/a
