@@ -967,3 +967,11 @@
 **Thoughts:** Will need to do some investigation on how to do the bot logic for the bot player.
 
 **Link to work:** n/a
+
+## Day 118  : 3rd April, 2018
+
+**Today's Progress:** Added the layouts for the first 2 player selection pages.
+
+**Thoughts:** Using flexbox to conduct my designs.
+
+**Link to work:** n/a
