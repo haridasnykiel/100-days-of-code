@@ -975,3 +975,11 @@
 **Thoughts:** Using flexbox to conduct my designs.
 
 **Link to work:** n/a
+
+## Day 119  : 5th April, 2018
+
+**Today's Progress:** Completed the style for the board and the game play player titles, this indicates which players turn it is.
+
+**Thoughts:** Will make a start on doing the logic for the game.
+
+**Link to work:** n/a
