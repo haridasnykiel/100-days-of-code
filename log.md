@@ -983,3 +983,11 @@
 **Thoughts:** Will make a start on doing the logic for the game.
 
 **Link to work:** n/a
+
+## Day 120  : 8th April, 2018
+
+**Today's Progress:** Working on the tic tac toe FCC project. Trying to add the logic for adding the correct symbol to the correct position on the board based on the player choices.   
+
+**Thoughts:** Trying to figure out a way to pass the element value to a click function that is bound to the perant function.
+
+**Link to work:** n/a
