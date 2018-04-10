@@ -991,3 +991,11 @@
 **Thoughts:** Trying to figure out a way to pass the element value to a click function that is bound to the perant function.
 
 **Link to work:** n/a
+
+## Day 121  : 10th April, 2018
+
+**Today's Progress:** Added the functionality that will add the symbol to the game board based on the player ones choice in the previous page.
+
+**Thoughts:** Will ensure the turns and positions are recorded by adding them to an array. This is how I will check if a player has won the game. I also need to implement the bot logic. 
+
+**Link to work:** n/a
