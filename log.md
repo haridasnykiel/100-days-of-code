@@ -996,6 +996,14 @@
 
 **Today's Progress:** Added the functionality that will add the symbol to the game board based on the player ones choice in the previous page.
 
-**Thoughts:** Will ensure the turns and positions are recorded by adding them to an array. This is how I will check if a player has won the game. I also need to implement the bot logic. 
+**Thoughts:** Will ensure the turns and positions are recorded by adding them to an array. This is how I will check if a player has won the game. I also need to implement the bot logic.
+
+**Link to work:** n/a
+
+## Day 122  : 17th April, 2018
+
+**Today's Progress:** Working on the win logic of the tictactoe FCC project.
+
+**Thoughts:** Using arrays to store the win combinations and storing the player moves into relevant player objects. Creating a function to compare these 2 arrays to get the winner. May try to use an object that holds the winning combinations instead of a 2 d array.
 
 **Link to work:** n/a
