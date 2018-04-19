@@ -1007,3 +1007,11 @@
 **Thoughts:** Using arrays to store the win combinations and storing the player moves into relevant player objects. Creating a function to compare these 2 arrays to get the winner. May try to use an object that holds the winning combinations instead of a 2 d array.
 
 **Link to work:** n/a
+
+## Day 123  : 19th April, 2018
+
+**Today's Progress:** Completed the win logic for the tictactoe FCC project.
+
+**Thoughts:** I want to use a more animated method to show the winner of the game. By drawing a line across the winning move and adding flashes that show the move. 
+
+**Link to work:** n/a
