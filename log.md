@@ -1012,6 +1012,14 @@
 
 **Today's Progress:** Completed the win logic for the tictactoe FCC project.
 
-**Thoughts:** I want to use a more animated method to show the winner of the game. By drawing a line across the winning move and adding flashes that show the move. 
+**Thoughts:** I want to use a more animated method to show the winner of the game. By drawing a line across the winning move and adding flashes that show the move.
+
+**Link to work:** n/a
+
+## Day 124  : 24th April, 2018
+
+**Today's Progress:** Working on making a custom winning message that appears, using jquery-ui and animation.
+
+**Thoughts:** I am having quite a lot of fun making some animation for the winner of the game.
 
 **Link to work:** n/a
