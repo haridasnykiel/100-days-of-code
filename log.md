@@ -1023,3 +1023,11 @@
 **Thoughts:** I am having quite a lot of fun making some animation for the winner of the game.
 
 **Link to work:** n/a
+
+## Day 125  : 26th April, 2018
+
+**Today's Progress:** Create the player wins count headers and the reset game function for the tictactoe game. There is a bug when the second game is finished the game does not reset.
+
+**Thoughts:** This bug should be interesting to fix.
+
+**Link to work:** n/a
