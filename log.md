@@ -1031,3 +1031,11 @@
 **Thoughts:** This bug should be interesting to fix.
 
 **Link to work:** n/a
+
+## Day 126  : 1st May, 2018
+
+**Today's Progress:** Added the functionality to reset the whole game. Also conducted some refactoring.
+
+**Thoughts:** I will now start to learn how to build the bot and add some winning or draw message.
+
+**Link to work:** n/a
