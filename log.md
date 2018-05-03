@@ -1039,3 +1039,11 @@
 **Thoughts:** I will now start to learn how to build the bot and add some winning or draw message.
 
 **Link to work:** n/a
+
+## Day 126  : 3rd May, 2018
+
+**Today's Progress:** Completed the animation and styling for the win message in the tictactoe FCC project.
+
+**Thoughts:** In the next session I will learn about minimax and try to implement it in the game for the computer player.
+
+**Link to work:** n/a
