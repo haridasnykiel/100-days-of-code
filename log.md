@@ -1047,3 +1047,19 @@
 **Thoughts:** In the next session I will learn about minimax and try to implement it in the game for the computer player.
 
 **Link to work:** n/a
+
+## Day 127  : 10th May, 2018
+
+**Today's Progress:** Learning about the minimax algorithm.
+
+**Thoughts:** I understand the concept of how it workes I just need to put it into code now.
+
+**Link to work:** n/a
+
+## Day 127  : 14th May, 2018
+
+**Today's Progress:** Made a start on creating the logic for the AI player, using the minimax algorithm.
+
+**Thoughts:** I understand the concept of how it works I just need to put it into code now.
+
+**Link to work:** n/a
