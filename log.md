@@ -1063,3 +1063,11 @@
 **Thoughts:** I understand the concept of how it works I just need to put it into code now.
 
 **Link to work:** n/a
+
+## Day 128  : 15th May, 2018
+
+**Today's Progress:** Started to amke the functions that will support the minimax function.
+
+**Thoughts:** Have created the function that will give the places the players already picked on the board.
+
+**Link to work:** n/a
