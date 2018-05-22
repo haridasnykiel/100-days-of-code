@@ -1071,3 +1071,11 @@
 **Thoughts:** Have created the function that will give the places the players already picked on the board.
 
 **Link to work:** n/a
+
+## Day 129  : 22nd May, 2018
+
+**Today's Progress:** Refactored the check winner method implementation and usage in order to prepare for using the minimax algorithm.
+
+**Thoughts:** That refactor job took some as there were quite a few changes that were required.
+
+**Link to work:** n/a
