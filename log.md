@@ -1079,3 +1079,19 @@
 **Thoughts:** That refactor job took some as there were quite a few changes that were required.
 
 **Link to work:** n/a
+
+## Day 130  : 26th May, 2018
+
+**Today's Progress:** Added my first try of implementing the minimax algorithm and there some issues returning the index of the best position on the board.
+
+**Thoughts:** Need to do some more reading on the algorithm and watch some more tutorials on how it is implemented.
+
+**Link to work:** n/a
+
+## Day 131  : 26th May, 2018
+
+**Today's Progress:** Working on recursive function challenges to get a better understanding of recursion for the minimax algorithm.
+
+**Thoughts:** I am hoping that these challenges will allow me to visualise understand how to create the minimax algorithm in code.
+
+**Link to work:** n/a
