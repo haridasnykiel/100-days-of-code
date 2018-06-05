@@ -1066,7 +1066,7 @@
 
 ## Day 128  : 15th May, 2018
 
-**Today's Progress:** Started to amke the functions that will support the minimax function.
+**Today's Progress:** Started to make the functions that will support the minimax function.
 
 **Thoughts:** Have created the function that will give the places the players already picked on the board.
 
@@ -1093,5 +1093,21 @@
 **Today's Progress:** Working on recursive function challenges to get a better understanding of recursion for the minimax algorithm.
 
 **Thoughts:** I am hoping that these challenges will allow me to visualise understand how to create the minimax algorithm in code.
+
+**Link to work:** n/a
+
+## Day 132  : 3rd June, 2018
+
+**Today's Progress:** Working on the sum challenge of the recursion prompts challenges. Finding it hard to not mutate the array to work the sum of all the ints in the array.
+
+**Thoughts:** Need to work outa way to not change the original array when conducting these calculations.
+
+**Link to work:** n/a
+
+## Day 133  : 5th June, 2018
+
+**Today's Progress:** Working on the recursion challenge that needs to get the total sum of ints in a nested arrays.
+
+**Thoughts:** I need to start to try to visualise the solution by writing it down on paper.
 
 **Link to work:** n/a
