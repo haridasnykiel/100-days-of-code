@@ -1111,3 +1111,11 @@
 **Thoughts:** I need to start to try to visualise the solution by writing it down on paper.
 
 **Link to work:** n/a
+
+## Day 134  : 5th June, 2018
+
+**Today's Progress:** Working on the recursion prompts challenges. I am finding them really hard to figure, due to all the maths that is involved. I doing the is even challenge at the moment but without using mod.
+
+**Thoughts:** I need to start to try to visualise the solution by writing it down on paper!!!!!!
+
+**Link to work:** n/a
