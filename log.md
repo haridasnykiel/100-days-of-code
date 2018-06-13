@@ -1119,3 +1119,11 @@
 **Thoughts:** I need to start to try to visualise the solution by writing it down on paper!!!!!!
 
 **Link to work:** n/a
+
+## Day 135  : 13th June, 2018
+
+**Today's Progress:** Completed a few of the recursion challenges. I will now go back to the tictactoe project and try to complete the ai.
+
+**Thoughts:** When working with recursion it is a good idea to go through each step of the call stack to see what is actually happening.
+
+**Link to work:** n/a
