@@ -1127,3 +1127,11 @@
 **Thoughts:** When working with recursion it is a good idea to go through each step of the call stack to see what is actually happening.
 
 **Link to work:** n/a
+
+## Day 136  : 19th June, 2018
+
+**Today's Progress:** Working on a bug in the minimax algorithm. The move object returns an index that is the player symbol instead of a index number.
+
+**Thoughts:** I dont understand why the minimax algorithm is not returning an index.
+
+**Link to work:** n/a
