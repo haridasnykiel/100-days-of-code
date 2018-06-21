@@ -1135,3 +1135,11 @@
 **Thoughts:** I dont understand why the minimax algorithm is not returning an index.
 
 **Link to work:** n/a
+
+## Day 137  : 21st June, 2018
+
+**Today's Progress:** Working on rewriting the minimax function to try to find where I went wrong the first time.
+
+**Thoughts:** The bug that was happening before was an issue where the index that was getting returned was the ai player symbol "O" or "X" and not the index number.
+
+**Link to work:** n/a
