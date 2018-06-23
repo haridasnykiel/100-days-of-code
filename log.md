@@ -1143,3 +1143,11 @@
 **Thoughts:** The bug that was happening before was an issue where the index that was getting returned was the ai player symbol "O" or "X" and not the index number.
 
 **Link to work:** n/a
+
+## Day 138  : 23rd June, 2018
+
+**Today's Progress:** Got the minimax algorithm working. I have an issue with the player titles that show which players turn it is.
+
+**Thoughts:** Glad I finally have the minimax working and understand how it works.
+
+**Link to work:** n/a
