@@ -1151,3 +1151,11 @@
 **Thoughts:** Glad I finally have the minimax working and understand how it works.
 
 **Link to work:** n/a
+
+## Day 139  : 26th June, 2018
+
+**Today's Progress:** Completed the FCC tictactoe project. :)
+
+**Thoughts:** I will start working on the HTSA website using C# and mySQL. I will need to start by setting up the compiler and mySQL on my MAC.
+
+**Link to work:** n/a
